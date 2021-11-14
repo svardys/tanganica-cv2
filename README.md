@@ -1,5 +1,5 @@
 1, composer install<br>
-2, composer require google/apiclient<br>
+2, pro jistotu : composer require google/apiclient<br>
 3, v .env upravit připojení do DB<br>
 DB_CONNECTION=mysql<br>
 DB_HOST=127.0.0.1<br>
