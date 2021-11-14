@@ -1,5 +1,4 @@
 /node_modules
-/public/hot
 /vendor
 .phpunit.result.cache
 docker-compose.override.yml
@@ -9,5 +8,4 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
-/public/
 !.gitignore
