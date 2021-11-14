@@ -10,4 +10,6 @@ DB_PASSWORD=db_password<br>
 4, php artisan migrate:refresh<br>
 5, Spustit server příkazem : php artisan serve<br>
 6, Zobrazení CRON funkcí : php artisan schedule:list<br>
-7, Spuštětí CRON : php artisan schedule:run
+7, Spuštětí CRON : 
+   pouze jednou : php artisan schedule:run
+   del nastavení(co minutu) : php artisan schedule:work
